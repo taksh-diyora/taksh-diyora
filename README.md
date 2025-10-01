@@ -3,7 +3,7 @@
 
 |  |  |  |
 |--|--|--|
-| [![](https://img.shields.io/badge/-@takshdiyora-%23181717?style=flat-square&logo=github)](https://github.com/takshdiyora) | [![](https://img.shields.io/badge/-Taksh%20Diyora-%230077B5?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/your-linkedin-username/) | [![](https://img.shields.io/badge/-LeetCode-%23FFA116?style=flat-square&logo=leetcode&logoColor=ffffff)](https://leetcode.com/your-leetcode-username/) |
+| [![](https://img.shields.io/badge/-@takshdiyora-%23181717?style=flat-square&logo=github)](https://github.com/takshdiyora) | [![](https://img.shields.io/badge/-Taksh%20Diyora-%230077B5?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/taksh-diyora/) | [![](https://img.shields.io/badge/-LeetCode-%23FFA116?style=flat-square&logo=leetcode&logoColor=ffffff)](https://leetcode.com/u/takshdiyora) |
 
 
 ---
